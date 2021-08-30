@@ -6,6 +6,13 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
+Answers to http://localhost:8080/ (GET), providing HTML and REST apis.
+
+Requirements coming from Quarkus are
+ - JDK 11+ (any distribution)
+ - Optionally GraalVM 21.1.0 for native compilation
+ - Apache Maven 3.8.1+
+
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 ## Running the application in dev mode
@@ -53,11 +60,3 @@ If you want to learn more about building native executables, please consult http
 
 - RESTEasy JAX-RS ([guide](https://quarkus.io/guides/rest-json)): REST endpoint framework implementing JAX-RS and more
 - Qute ([guide](https://quarkus.io/guides/qute)): Template engine for HTML
-
-## Provided Code
-
-### RESTEasy JAX-RS
-
-Easily start your RESTful Web Services
-
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
