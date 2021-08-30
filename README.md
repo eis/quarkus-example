@@ -4,7 +4,7 @@
   <img src="https://github.com/eis/quarkus-example/actions/workflows/github-actions-build.yml/badge.svg">
 </a>
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+This project uses [Quarkus](https://quarkus.io/).
 
 Answers to http://localhost:8080/ (GET), providing HTML and REST apis.
 
@@ -12,9 +12,7 @@ Requirements coming from Quarkus are
  - JDK 11+ (any distribution)
  - Optionally GraalVM 21.1.0 for native compilation
  - Apache Maven 3.8.1+
-
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
-
+ 
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
