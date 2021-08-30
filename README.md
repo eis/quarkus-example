@@ -6,7 +6,13 @@
 
 This project uses [Quarkus](https://quarkus.io/).
 
-Answers to http://localhost:8080/ (GET), providing HTML and REST apis.
+Features
+ - JAX-RS rest api
+ - Qute html templates
+ - Unit, integration tests
+ - Github Actions build
+
+Answers to http://localhost:8080/ (GET).
 
 Requirements coming from Quarkus are
  - JDK 11+ (any distribution)
