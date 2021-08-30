@@ -1,5 +1,9 @@
 # Example Quarkus Project
 
+<a href="https://github.com/eis/quarkus-example/actions/workflows/github-actions-build.yml" title="Build Status">
+  <img src="https://github.com/eis/quarkus-example/actions/workflows/github-actions-build.yml/badge.svg">
+</a>
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
