@@ -48,6 +48,7 @@ If you want to learn more about building native executables, please consult http
 ## Related Guides
 
 - RESTEasy JAX-RS ([guide](https://quarkus.io/guides/rest-json)): REST endpoint framework implementing JAX-RS and more
+- Qute ([guide](https://quarkus.io/guides/qute)): Template engine for HTML
 
 ## Provided Code
 
