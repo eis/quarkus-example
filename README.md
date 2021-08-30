@@ -3,6 +3,10 @@
 <a href="https://github.com/eis/quarkus-example/actions/workflows/github-actions-build.yml" title="Build Status">
   <img src="https://github.com/eis/quarkus-example/actions/workflows/github-actions-build.yml/badge.svg">
 </a>
+<a href="https://codecov.io/gh/eis/quarkus-example" title="Coverage Status">
+  <img src="https://codecov.io/gh/eis/quarkus-example/branch/master/graph/badge.svg?token=QhUicfrjBn">
+</a>
+
 
 This project uses [Quarkus](https://quarkus.io/).
 
@@ -11,6 +15,7 @@ Features
  - Qute html templates
  - Unit, integration tests
  - Github Actions build
+ - CodeCov integration
 
 Answers to http://localhost:8080/ (GET).
 
